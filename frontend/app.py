@@ -25,7 +25,7 @@ def _resolve_api_url() -> str:
             return st.secrets["API_URL"]
         except Exception:
             pass
-    return os.environ.get("API_URL", "http://localhost:8000")
+    return os.environ.get("API_URL", "https://detection-desfraudes-bancaires-ml.onrender.com")
 
 
 API_URL = _resolve_api_url()
