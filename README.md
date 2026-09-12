@@ -134,3 +134,7 @@ fraud-detection-app/
 
 ---
 *Projet portfolio — non destiné à un usage en production sans validation métier complémentaire.*
+
+
+https://detection-desfraudes-bancaires-ml.onrender.com
+https://front-detection-fraude-ml-sup.onrender.com
